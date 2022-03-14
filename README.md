@@ -2,10 +2,10 @@
 This is a cross-platform mobile app built with Flutter⚡.
 
 ## Demo :video_camera:
-<img src="1.gif" width="300"/> <img src="res/2.gif" width="300"/>
+<img src="1.gif" width="300"/>
 
 ## Screens 📺
-![alt-text-1](res/screens.png "screens")
+![alt-text-1](screens.png "screens")
 
 ## Getting Started
 
