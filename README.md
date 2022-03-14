@@ -1,6 +1,11 @@
-# gods_eye
+# GodsEye Mobile App 👀
+This is a cross-platform mobile app built with Flutter⚡.
 
-A new Flutter application.
+## Demo :video_camera:
+<img src="res/1.gif" width="300"/> <img src="res/2.gif" width="300"/>
+
+## Screens 📺
+![alt-text-1](res/screens.png "screens")
 
 ## Getting Started
 
